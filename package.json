@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.0.4",
+    "@nomicfoundation/hardhat-ethers": "^3.0.5",
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "@nomicfoundation/hardhat-verify": "^2.0.4",
+    "@typechain/ethers-v6": "^0.5.1",
+    "@typechain/hardhat": "^9.1.0",
+    "chai": "^4.4.1",
+    "ethers": "^6.10.0",
+    "hardhat": "^2.19.5",
+    "hardhat-gas-reporter": "^1.0.10",
+    "solidity-coverage": "^0.8.6",
+    "typechain": "^8.3.2",
+    "yarn": "^1.22.21"
+  },
+  "name": "code3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "idris",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
